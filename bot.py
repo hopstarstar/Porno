@@ -5,7 +5,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, fil
 # ТВОЙ ТОКЕН
 TOKEN = "8107838667:AAGy84WVK1nLT35XS8QIb0MzrN0hoIgxfQw"
 # ТВОЙ АДМИН ID
-ADMIN_ID = 70056447225
+ADMIN_ID = 7005644725
 
 # Словник для зберігання запитів від користувачів
 pending_requests = {}
